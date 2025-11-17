@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+build/
+dist/
+*.spec
+gui.spec
+
+# Virtual environments
+venv/
+env/
+
+# Editor / IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python cache
+*.egg-info/
+.eggs/
+
+# Notebooks temporary files
+.ipynb_checkpoints/
+
+# Environment variables
+*.env
+
+# Model or temporary data (if any)
+*.pkl
+*.db
+*.sqlite3
